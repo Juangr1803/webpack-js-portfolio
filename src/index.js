@@ -7,4 +7,3 @@ import '@styles/vars.styl';
   main.innerHTML = await Template();
 })();
 
-
